@@ -1,2 +1,2 @@
 # Circumference-Calculation-Program
-The
+This program calculates the circumference of a circle.
